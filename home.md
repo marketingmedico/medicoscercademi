@@ -8,4 +8,4 @@ Here is some sample **Markdown** content.
 
 [Ginecologos cerca de mi](topic-2.md)
 
-Go to [topic-3](topic-3.md)
+[Dermatologos cerca de mi](topic-3.md)
